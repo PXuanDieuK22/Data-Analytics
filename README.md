@@ -2,12 +2,12 @@
 
 Xin chào 👋  
 Đây là kho lưu trữ các bài thực hành và dự án nhỏ trong môn **Phân Tích Dữ Liệu** 
-Giảng viên: Đỗ Như Tài 
-Email: donhutai@gmail.com
+# Giảng viên: Đỗ Như Tài 
+# Email: donhutai@gmail.com
 
-Sinh viên: Phạm Xuân Diệu 
-MSSV: 3122410051.
-Email: dieu2120@gmail.com
+# Sinh viên: Phạm Xuân Diệu 
+# MSSV: 3122410051.
+# Email: dieu2120@gmail.com
 
 ## Nội dung
 - Lab 1: Làm quen với Python và xử lý dữ liệu
